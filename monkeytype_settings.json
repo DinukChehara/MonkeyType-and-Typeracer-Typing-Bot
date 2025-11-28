@@ -1,0 +1,9 @@
+{
+    "start_key": "ctrl+alt+k",
+    "start_delay": 0,
+    "browser": "Chrome",
+    "chrome_user_data_dir": null,
+    "chrome_profile_dir": null,
+    "firefox_profile_dir": null,
+    "interval": 0.1
+}
